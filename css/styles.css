@@ -770,7 +770,7 @@ body {
   color: var(--secondary-text-color);
 }
 
-.modal-form-field.last-field {
+.modal-form-field:nth-child(5) {
   margin-bottom: 20px;
 }
 
